@@ -1,5 +1,5 @@
 # Site settings
-title: NEuroimmunology and Women's health, Reproduction and Innovation Network Group
+title: NEWRING
 email: riley.bove@ucsf.edu
 description: Unclear?
 baseurl: ""
@@ -27,15 +27,15 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
-  - name: collaborations
-  - name: publications
-  - name: research
-  - name: talks
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  - name: involved
+  # - name: about
+  # - name: publications
+  # - name: research
+  # - name: talks
+  # - name: software
+  # - name: team
+  # - name: teaching
+  # - name: blogs
 
 include:
   - .htaccess
