@@ -1,9 +1,65 @@
-- name: Example student name
-  photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+# - name: Example student name
+#   photo: rock.jpg
+#   info: Postdoc, started Oct 2040
+#   email: exampleemail@gmail.com
+#   website: https://website.com
 
-- name: "This could be you !"
+- name: "Riley Bove"
+  photo: riley-bove.jpg
+  info: See <a href="https://www.ucsfhealth.org/providers/dr-riley-bove">UCSF profile</a> for more info
+
+- name: "Maria Houtchens"
   photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
+  info: See <a href="www">profile</a> for more info
+
+- name: "Dina Jacobs"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Claire Riley"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Ilana Katz Sand"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Lilyana Amezcua"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Joanna Cooper"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Edith Graham"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Annette Okai"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Mitzi Joy Williams"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Sonia Kaur Singh"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Annette Wundes"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Tiffany Braley"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
+
+- name: "Anna Shah"
+  photo: anna-shah.png
+  info: See <a href="https://www.ucsfhealth.org/providers/dr-ann-cai-shah">UCSF profile</a> for more info
+
+- name: "Oregon"
+  photo: rock.jpg
+  info: See <a href="www">profile</a> for more info
